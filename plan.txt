@@ -1,0 +1,6 @@
+Iron 15 500
+Bronze 25 680
+Silver 40 890
+Gold 60 1050
+Platinum 80 1575
+Diamond 100 2100
